@@ -25,6 +25,7 @@ caption {
     background-color: #d3d3d3;
     border: 1px solid black;
     padding: 10px;
+    font-weight: bold;
 }
 tbody :nth-child(odd) td{
     background-color:#6cf08f;
